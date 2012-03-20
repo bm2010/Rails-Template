@@ -31,7 +31,7 @@ function rails_template(){
 	printf "\n##############################################\n"
 	printf "# Cloning template\n"
 	printf "##############################################\n"
-	git clone git://github.com/joequery/Rails-Template.git
+	git clone git://github.com/Hack56/Rails-Template.git
 
 	printf "\n##############################################\n"
 	printf "# Renaming directory\n"
@@ -67,4 +67,4 @@ View the wiki!
 --------------
 
 Details on implementing the features of the template can be found
-[in the wiki](https://github.com/joequery/Rails-Template/wiki)
+[in the wiki](https://github.com/Hack56/Rails-Template/wiki)
